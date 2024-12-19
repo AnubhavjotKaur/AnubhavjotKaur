@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnubhavjotKaur
-- 👀 I’m interested in ...Python
+- 👀 I’m interested in ...Data Analytics, R, Tableau, MS Excel, Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...
